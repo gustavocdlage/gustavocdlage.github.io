@@ -1,0 +1,116 @@
+.header {
+    background-color: grey;
+}
+
+.lanca_titulo {
+    background-color: lightgrey;
+}
+
+.lancamentos {
+    background-color: lightgray;
+}
+
+.entrevista_titulo {
+    background-color: lightgray;
+}
+
+.lanca_titulo h1 {
+    position: relative;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    font-size: xx-large;
+}
+
+.entrevistas {
+    background-color: lightgray;
+}
+
+.footer {
+    background-color: lightgray;
+}
+
+.footer h6 {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.logo {
+    max-width: 100%;
+    padding: 10px;
+}
+
+.trailer {
+    max-width: 100%;
+    max-height: 380px;
+}
+
+.card-img {
+    padding: 20px;
+}
+
+.img-destaque {
+    max-width: 300px;
+    max-height: 300px;
+    padding: 10px;
+}
+
+.makingof {
+    max-width: 300px;
+    max-height: 200px;
+}
+
+h1,
+h2,
+h3,
+h6 {
+    color: midnightblue;
+}
+
+h1 {
+    font-size: xx-large;
+    padding: 10px;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: larger;
+}
+
+.botao {
+    margin-right: 10px;
+    padding: 10px;
+    text-align: right;
+}
+
+.btn-secondary {
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+
+.avaliacoes h2 {
+    color: black;
+}
+
+.slides {
+    padding: 30px;
+}
+
+.destaque,
+.destaque_titulo,
+.ava_titulo,
+.avaliacoes,
+.entrevista_titulo,
+.entrevistas,
+.novidades_titulo,
+.novidades {
+    padding-left: 10%;
+    padding-right: 10%;
+}
